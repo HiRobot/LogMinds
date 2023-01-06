@@ -311,9 +311,6 @@ Web容器下，没有自带日志切割功能的，可以使用cronolog按照天
 #### 7.2.1 状态
 &ensp;&ensp;&ensp;&ensp;可用，依赖日志平台。
 
-#### 7.2.2 对接人
-&ensp;&ensp;&ensp;&ensp;张超晴
-
 ---
 
 ### 7.3 日志脱敏
@@ -321,9 +318,6 @@ Web容器下，没有自带日志切割功能的，可以使用cronolog按照天
 
 #### 7.3.1 状态
 &ensp;&ensp;&ensp;&ensp;可用。
-
-#### 7.3.2 对接人
-&ensp;&ensp;&ensp;&ensp;张超晴
 
 ---
 
